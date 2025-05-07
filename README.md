@@ -1,1 +1,1 @@
-"# c-programming" 
+This repo is collection of my C programs
