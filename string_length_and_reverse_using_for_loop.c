@@ -1,4 +1,4 @@
-//Program for finding length of a string with for loop
+//Program for finding length and reverse of a string with for loop
 #include <stdio.h>
 
 int len(char name[100])
