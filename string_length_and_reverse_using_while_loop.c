@@ -1,4 +1,4 @@
-//Program for finding length of a string with while loop
+//Program for finding length and reverse of a string with while loop
 
 #include <stdio.h>
 
